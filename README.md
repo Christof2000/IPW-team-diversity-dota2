@@ -1,4 +1,4 @@
-# ReadMe
+# Dota 2 game analysis using Inverse Probability Weighting
 
 This repository contains the code used when doing research into estimating the effect of `diverse' team compositions on Dota 2 game outcomes using Inverse Probability Weighting.
 
